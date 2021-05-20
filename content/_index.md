@@ -49,7 +49,7 @@ sections:
         image_alt: DatoCMS logo
         image_align: center
       - type: grid_item
-        image: images/logo-6.svg
+        image: /images/about-5.jpg
         image_alt: Next.js logo
         image_align: center
       - type: grid_item
