@@ -49,7 +49,7 @@ sections:
         image_alt: DatoCMS logo
         image_align: center
       - type: grid_item
-        image: /images/about-5.jpg
+        image: /images/panoramic-goose.jpg
         image_alt: Next.js logo
         image_align: center
       - type: grid_item
