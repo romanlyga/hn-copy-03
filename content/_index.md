@@ -16,7 +16,7 @@ sections:
         label: Learn More
         url: /features
         style: secondary
-    image: /images/brandon-guidelines.png
+    image: /images/2021-01-05 12.09.04.jpg
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
